@@ -14,7 +14,7 @@ Each task demonstrates my skills in *HTML, CSS, and JavaScript*.
 - Keyboard input enabled.
   
 ➡ View Code
-(./Task_1/index.html)
+(https://github.com/Kartikjangir01/OIBSIP/blob/main/Task_1/index.html)
 
 ---
 
